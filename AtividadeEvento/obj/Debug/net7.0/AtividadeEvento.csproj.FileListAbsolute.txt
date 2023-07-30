@@ -1,0 +1,5 @@
+C:\Users\bssoa\OneDrive\Documentos\aula de c#\AtividadeEvento\obj\Debug\net7.0\AtividadeEvento.csproj.AssemblyReference.cache
+C:\Users\bssoa\OneDrive\Documentos\aula de c#\AtividadeEvento\obj\Debug\net7.0\AtividadeEvento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bssoa\OneDrive\Documentos\aula de c#\AtividadeEvento\obj\Debug\net7.0\AtividadeEvento.AssemblyInfoInputs.cache
+C:\Users\bssoa\OneDrive\Documentos\aula de c#\AtividadeEvento\obj\Debug\net7.0\AtividadeEvento.AssemblyInfo.cs
+C:\Users\bssoa\OneDrive\Documentos\aula de c#\AtividadeEvento\obj\Debug\net7.0\AtividadeEvento.csproj.CoreCompileInputs.cache
